@@ -13,6 +13,9 @@ img {
   margin: 0 auto;
 }
 
+/*Reason you were not able to center nav > a because the links in them selfs are being centered */
+/*but the actual element nav is still being aligned to the left because all of the a elements are */
+/*contained in the nav element*/
 nav {
   text-align: center;
 }
