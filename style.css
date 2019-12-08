@@ -18,6 +18,6 @@ nav {
   background: #c2c5cc;
 }
 
-nav a {
+nav > a {
   background: #c2c5cc;
 }
