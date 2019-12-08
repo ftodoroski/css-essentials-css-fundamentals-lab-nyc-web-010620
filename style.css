@@ -24,3 +24,7 @@ nav {
 nav a {
   background: #c2c5cc;
 }
+
+#featured-property {
+  text-align: center;
+}
