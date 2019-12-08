@@ -24,7 +24,7 @@ nav {
 nav a {
   background: #c2c5cc;
   padding: 10px;
-  font-size: 100px;
+  /*font-size: 100px;*/
 }
 
 #featured-property figure figcaption {
