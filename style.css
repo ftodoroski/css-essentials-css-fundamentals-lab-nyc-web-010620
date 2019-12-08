@@ -12,6 +12,6 @@ text-align: center;
   text-align: center;
 }
 
-nav {
+nav > a{
   text-align: center;
 }
