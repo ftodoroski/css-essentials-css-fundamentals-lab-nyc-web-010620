@@ -30,3 +30,8 @@ nav a {
   text-align: center;
   font-size: 14.5px;
 }
+
+#featured-property figure figcaption {
+  text-align: center;
+  
+}
