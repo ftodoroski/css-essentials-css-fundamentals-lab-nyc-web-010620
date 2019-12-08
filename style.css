@@ -37,3 +37,7 @@ nav a {
   margin: 0 auto;
   padding-bottom: 10px;
 }
+
+#details div {
+  display: float;
+}
